@@ -1,3 +1,2 @@
-cookies/
-log/
-results/
+cookies/*.pkl
+log/*.log
